@@ -13,7 +13,7 @@ Most recently built StayScape, a travel accommodation platform inspired by Airbn
 <br>
 -Clean backend architecture paired with intuitive UI
 
-👯 Open to collaborating on
+🤝🏻 Open to collaborating on
 Full-stack or backend-heavy projects where I can contribute to feature development, system design, or improving existing functionality.
 
 🌱 Currently learning & improving
