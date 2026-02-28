@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👩‍💻 About Me<br><br>🔭 Hi there! I’m a Computer Science Engineering student who enjoys building real-world, end-to-end web applications and turning ideas into clean, functional products.
 
 🔭 Currently working on
@@ -47,6 +47,7 @@ Building full-stack projects from scratch, backend workflows, authentication log
 -Known for approaching problems with a product-focused and innovative mindset, turning ideas into working prototypes.
 
 🌍 Community Involvement & Volunteering
+<br>
 -Volunteer at GDG Cloud Rajkot, contributing to the organization of AI and Google-technology-focused events and workshops.
 <br>
 -Assisted in planning and managing multiple technical events, helping create learning opportunities for students and developers.
