@@ -1,6 +1,48 @@
 # 💫 About Me:
-👩‍💻 About Me<br><br>🔭 I’m currently working on:<br>Building full-stack web applications with a focus on real-world features, scalable backend logic, and clean UI/UX (recent project: StayScape, a travel accommodation platform).
+👩‍💻 About Me<br><br>🔭 Hi there! I’m a Computer Science Engineering student who enjoys building real-world, end-to-end web applications and turning ideas into clean, functional products.
 
+🔭 Currently working on
+Designing and developing full-stack web applications with a strong focus on scalable backend logic, authentication flows, database-driven features, and polished UI/UX.
+Most recently built StayScape, a travel accommodation platform inspired by Airbnb.
+
+🧠 What I enjoy building
+-Projects that go beyond CRUD and feel “real”
+-Features like authentication, wishlists, validations, and user flows
+-Clean backend architecture paired with intuitive UI
+
+👯 Open to collaborating on
+Full-stack or backend-heavy projects where I can contribute to feature development, system design, or improving existing functionality.
+
+🌱 Currently learning & improving
+-Backend architecture & best practices.
+-Writing cleaner, more maintainable code.
+-Performance optimization and production-readiness.
+
+💬 Ask me about
+Building full-stack projects from scratch, backend workflows, authentication logic, database design, or debugging things that “should work but don’t”. 😄
+
+⚡ Fun facts
+-I enjoy refining a project multiple times until it feels production-ready.
+-I like debugging more than writing fresh code (yes, really).
+-I often analyze websites for user experience and UI patterns, noticing how small design choices shape usability and flow.
+-I love exploring different products to understand how teams translate ideas into intuitive interfaces.
+
+🌟 Community, Hackathons & Beyond
+
+🏆 Hackathons & Innovation
+-Actively participated in multiple hackathons over the past year, enjoying the challenge of brainstorming and delivering creative, real-world solutions under time constraints.
+-Known for approaching problems with a product-focused and innovative mindset, turning ideas into working prototypes.
+
+🌍 Community Involvement & Volunteering
+-Volunteer at GDG Cloud Rajkot, contributing to the organization of AI and Google-technology-focused events and workshops.
+-Assisted in planning and managing multiple technical events, helping create learning opportunities for students and developers.
+-Passionate about community-driven learning and supporting others in their growth journey.
+
+🤝 Continuous Learning & Networking
+-Regularly attend technical meetups, workshops, and industry events to stay updated with emerging technologies.
+-Enjoy connecting with developers, sharing knowledge, and building meaningful professional relationships within the tech community.
+
+📌 Pinned Projects below showcase my hands-on experience in full-stack development and real-world problem solving.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/meghaapalia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghaapalia24@gmail.com) 
