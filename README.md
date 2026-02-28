@@ -6,6 +6,7 @@ Designing and developing full-stack web applications with a strong focus on scal
 Most recently built StayScape, a travel accommodation platform inspired by Airbnb.
 
 🧠 What I enjoy building
+<br>
 -Projects that go beyond CRUD and feel “real”
 <br>
 -Features like authentication, wishlists, validations, and user flows
@@ -16,32 +17,46 @@ Most recently built StayScape, a travel accommodation platform inspired by Airbn
 Full-stack or backend-heavy projects where I can contribute to feature development, system design, or improving existing functionality.
 
 🌱 Currently learning & improving
+<br>
 -Backend architecture & best practices.
+<br>
 -Writing cleaner, more maintainable code.
+<br>
 -Performance optimization and production-readiness.
 
 💬 Ask me about
 Building full-stack projects from scratch, backend workflows, authentication logic, database design, or debugging things that “should work but don’t”. 😄
 
 ⚡ Fun facts
+<br>
 -I enjoy refining a project multiple times until it feels production-ready.
+<br>
 -I like debugging more than writing fresh code (yes, really).
+<br>
 -I often analyze websites for user experience and UI patterns, noticing how small design choices shape usability and flow.
+<br>
 -I love exploring different products to understand how teams translate ideas into intuitive interfaces.
+<br>
 
 🌟 Community, Hackathons & Beyond
 
 🏆 Hackathons & Innovation
+<br>
 -Actively participated in multiple hackathons over the past year, enjoying the challenge of brainstorming and delivering creative, real-world solutions under time constraints.
+<br>
 -Known for approaching problems with a product-focused and innovative mindset, turning ideas into working prototypes.
 
 🌍 Community Involvement & Volunteering
 -Volunteer at GDG Cloud Rajkot, contributing to the organization of AI and Google-technology-focused events and workshops.
+<br>
 -Assisted in planning and managing multiple technical events, helping create learning opportunities for students and developers.
+<br>
 -Passionate about community-driven learning and supporting others in their growth journey.
 
 🤝 Continuous Learning & Networking
+<br>
 -Regularly attend technical meetups, workshops, and industry events to stay updated with emerging technologies.
+<br>
 -Enjoy connecting with developers, sharing knowledge, and building meaningful professional relationships within the tech community.
 
 📌 Pinned Projects below showcase my hands-on experience in full-stack development and real-world problem solving.
