@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nice, this looks like a GitHub README / portfolio “About Me” section 👌<br>I’ll fill it in so it sounds confident, modern, and aligned with your full-stack skills, without overclaiming.<br><br>You can copy-paste this directly 👇<br><br>👩‍💻 About Me<br><br>🔭 I’m currently working on:<br>Building full-stack web applications with a focus on real-world features, scalable backend logic, and clean UI/UX (recent project: StayScape, a travel accommodation platform).
+ 👇<br><br>👩‍💻 About Me<br><br>🔭 I’m currently working on:<br>Building full-stack web applications with a focus on real-world features, scalable backend logic, and clean UI/UX (recent project: StayScape, a travel accommodation platform).
 
 
 ## 🌐 Socials:
